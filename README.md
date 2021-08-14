@@ -1,2 +1,2 @@
 # Deceiver
-Multilingual deceptive Corpora for fake new detection task. 
+Deceptive annoated corpora for multilingual fake news detection. 
