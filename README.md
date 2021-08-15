@@ -1,2 +1,2 @@
 # Deceiver
-Deceptive annoated corpora for multilingual fake news detection. 
+Multilingual discourse-tagging corpora for fake news detection. 
