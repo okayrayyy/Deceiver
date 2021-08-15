@@ -1,1 +1,2 @@
+New stories corpus consists of unpublished deceptive stories collected manually from 3 (tree) Brazilian fact-checking agencies: G1 Fato Fake <https://g1.globo.com/fato-ou-fake/>, Lupa <https://piaui.folha.uol.com.br/lupa/ and E-farsas <https://www.e-farsas.com/> published during the period July-2018 to June-2021. We also used a couple of pieces from another fake news corpus in Brazilian Portuguese proposed by our laboratory. In total, it was collected 150 new fake stories. In total, it was collected 150 new fake stories.
 
